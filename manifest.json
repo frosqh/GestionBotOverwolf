@@ -8,7 +8,7 @@
 		"author":"Frosqh",
 		"icon":"IconMouseOver.png",
 		"icon_gray":"IconMouseNormal.png",
-		"description":"Demo App"
+		"description":"Application pour gèrer le bot Paikea à distance en utilisant OverWolf"
 	},
 	"data": {
 		"start_window":"MainWindow",
